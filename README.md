@@ -64,14 +64,14 @@ https://testnet.algoexplorer.io/application/252236904
 
 ### Front-end
  This is the repository of the front - end :<br>
- https://github.com/ramdio12/number_guessing_game_frontend
+ https://github.com/ramdio12/number-guessing-game-webapp.git
  
 ### Demo Website
 Here is the [link](https://number-guessing-game-webapp.vercel.app/) to the website.
 
 ### Smart Contact
 Here's the  to the dApp's smart contract.
-[link](https://github.com/ramdio12/number_guessing_game.git)
+[link](https://github.com/ramdio12/number_guessing_game_SM.git)
 
 ### Video Demonstration
 To see the video demonstration:<br>
