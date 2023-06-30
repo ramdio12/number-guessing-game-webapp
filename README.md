@@ -67,7 +67,7 @@ https://testnet.algoexplorer.io/application/252236904
  https://github.com/ramdio12/number_guessing_game_frontend
  
 ### Demo Website
-Here is the [link](https://number-guessing-game-frontend.vercel.app/) to the website.
+Here is the [link](https://number-guessing-game-webapp.vercel.app/) to the website.
 
 ### Smart Contact
 Here's the  to the dApp's smart contract.
